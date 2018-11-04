@@ -1,0 +1,15 @@
+.command{
+  background: #000;
+  width: 50%;
+    font-style: normal;
+    border-radius: 10px;
+    color: white;
+    padding: 5px 15px;
+    font-family: menlo, monospace;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a{
+  color: white;
+}
